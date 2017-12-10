@@ -1,0 +1,28 @@
+B	B001	Milk	001	2.00        
+B	B002	Cookies	002	3.00        
+B 	B003	Ice Cream	003	5.00        
+B 	B004	Yogurt	004	4.00        
+B 	B005	Coca Cola	005	1.50        
+B 	B006	Cereal	006	4.80        
+B 	B007	Chips	007	2.00        
+B 	B008	Juice	008	3.20        
+B 	B009	Toothpaste	009        5.30        
+B 	B010	Biscuits	010	1.80        
+		
+
+		
+W	W001	Apple	2.50        
+W	W002	Onion	1.00        
+W	W003	Orange	3.00        
+W	W004	Cucumber	1.50        
+W	W005	Leek	1.00        
+W	W006	Pineapple	5.00        
+W	W007	Banana	3.00        
+W	W008	Peanut	12.00        
+		
+
+		
+C	C001	Bread Roll	0.50        
+C	C003	Croissant	1.50        
+C	C002	Donut	1.00        
+C	C004	Cake	8.00        
